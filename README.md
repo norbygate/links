@@ -10,12 +10,12 @@
 
 (<a href="https://www.dplay.no/kanaler/animal-planet" target="_blank">Animal Planet</a>)<br/>
 
-##======================================================##
 
 ## Transport
 (<a href="https://ruter.no/" target="_blank">Oslo Ruter</a>)<br/>
 
 (<a href="https://ruter.no/reise/rutetabeller-og-linjekart/trikk/" target="_blank">Trikk Kart</a>)<br/>
+
 
 ## Aktivitet
 (<a href="https://www.idrettsforbundet.no/idrettskretser/oslo-idrettskrets/aktivitet/60pluss/" target="_blank">60Pluss</a>)<br/>
