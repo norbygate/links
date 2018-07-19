@@ -11,5 +11,8 @@
 ##======================================================##
 
 ## Transport
-(<a href="https://ruter.no/" target="_blank">Transport</a>)<br/>
+(<a href="https://ruter.no/" target="_blank">Oslo Ruter</a>)<br/>
+
+(<a href="https://ruter.no/globalassets/rutetabeller/trikk/trikk-linjekart-28052018.pdf"_blank">Trikk Kart</a>)<br/>
+
 
