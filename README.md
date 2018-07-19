@@ -1,2 +1,2 @@
 # links
-[https://www.manototv.com/live](Manoto TV)
+[https://www.manototv.com/live]
