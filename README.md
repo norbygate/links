@@ -15,3 +15,8 @@
 
 (<a href="https://ruter.no/reise/rutetabeller-og-linjekart/trikk/" target="_blank">Trikk Kart</a>)<br/>
 
+## Aktivitet
+(<a href="https://www.idrettsforbundet.no/idrettskretser/oslo-idrettskrets/aktivitet/60pluss/" target="_blank">60Pluss</a>)<br/>
+
+
+
