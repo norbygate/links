@@ -5,3 +5,5 @@
 [VOA](https://ir.voanews.com/)<br/>
 [BBC Farsi] (<a href="http://www.bbc.com/persian"></a>)<br/>
 [BBC Farsi] (<a href="http://www.bbc.com/persian" target="_blank"></a>)<br/>
+<a href="http://example.com/" target="_blank">example</a>
+(<a href="http://example.com/" target="_blank">VOA</a>)<br/>
