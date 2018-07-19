@@ -3,4 +3,4 @@
 [Parviz Shahbazi](http://www.parvizshahbazi.com/)<br/>
 
 [VOA](https://ir.voanews.com/)<br/>
-[BBC Farsi](<a href="http://www.bbc.com/persian" target="_blank">BBC Farsi</a>)<br/>
+BBC Farsi (<a href="http://www.bbc.com/persian" target="_blank">BBC Farsi</a>)<br/>
