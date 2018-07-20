@@ -24,4 +24,6 @@
 ## Video
 (<a href="https://docs.google.com/document/d/12rHnbzN24bB35X_WHZrG5E3miZa68yboqdBlkeZayy8/edit?usp=sharing/" target="_blank">Video</a>)<br/>
 
+## Emails
 
+(<a href="https://docs.google.com/document/d/1YfowCeYwem6fx-7_fh_2pcVnfvSzlLiohq9rC0FO3lU/edit?usp=sharing" target="_blank">Video</a>)<br/>
