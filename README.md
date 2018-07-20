@@ -2,7 +2,7 @@
 
 (<a href="http://www.manototv.com/live/" target="_blank">Manoto Live</a>)<br/>
 
-(<a href="http://www.parvizshahbazi.com/index.php" target="_blank">Parviz Shahbazi</a>)<br/>
+(<a href="http://www.parvizshahbazi.com/">Parviz Shahbazi</a>)<br/>
 
 (<a href="http://ir.voanews.com/" target="_blank">VOA</a>)<br/>
 
