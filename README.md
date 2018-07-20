@@ -27,3 +27,6 @@
 ## Emails
 
 (<a href="https://docs.google.com/document/d/1YfowCeYwem6fx-7_fh_2pcVnfvSzlLiohq9rC0FO3lU/edit?usp=sharing" target="_blank">Emails</a>)<br/>
+
+## Telefon
+(<a href="https://docs.google.com/document/d/1N3h9_qHcn0-XOp5dspESDLTyo4zgyNnGf9yDOUnhRsY/edit?usp=sharing" target="_blank">Emails</a>)<br/>
