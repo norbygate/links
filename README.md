@@ -1,8 +1,18 @@
+
+| Nødnummer     | Telefon       | 
+| ------------- |:-------------:| 
+| BRANN         | 110           |
+| Lege vakt     | 116  117      |
+| Politi        | 112           |
+| Ambulanse     | 113           |
+
+
 ## TV
+
 
 (<a href="http://www.manototv.com/live/" target="_blank">Manoto Live</a>)<br/>
 
-(<a href="http://www.parvizshahbazi.com/">Parviz Shahbazi</a>)<br/>
+(<a href="http://www.parvizshahbazi.com/">Parviz Shahbazi</a>)<br/> 
 
 (<a href="http://ir.voanews.com/" target="_blank">VOA</a>)<br/>
 
@@ -23,9 +33,15 @@
 ---------------------------
 
 (<a href="https://docs.google.com/document/d/12rHnbzN24bB35X_WHZrG5E3miZa68yboqdBlkeZayy8/edit?usp=sharing/" target="_blank">Video</a>)<br/>
+---------------------------
 
 (<a href="https://docs.google.com/document/d/1YfowCeYwem6fx-7_fh_2pcVnfvSzlLiohq9rC0FO3lU/edit?usp=sharing" target="_blank">Emails</a>)<br/>
+---------------------------
 
 (<a href="https://docs.google.com/document/d/1N3h9_qHcn0-XOp5dspESDLTyo4zgyNnGf9yDOUnhRsY/edit?usp=sharing" target="_blank">Telefon</a>)<br/>
+---------------------------
 
 (<a href="https://docs.google.com/document/d/10KtvH9tBfSAzREuCJbVfMDTeYiuASLD97UwL8RVv1Lk/edit?usp=sharing">Shopping</a>)<br/>
+
+
+
