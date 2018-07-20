@@ -22,6 +22,6 @@
 
 
 ## Video
-(<a href="https://docs.google.com/document/d/12rHnbzN24bB35X_WHZrG5E3miZa68yboqdBlkeZayy8/edit?usp=sharing>Video</a>)<br/>
+(<a href="https://docs.google.com/document/d/12rHnbzN24bB35X_WHZrG5E3miZa68yboqdBlkeZayy8/edit?usp=sharing/" target="_blank">Video</a>)<br/>
 
 
