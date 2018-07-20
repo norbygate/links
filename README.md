@@ -26,4 +26,4 @@
 
 ## Emails
 
-(<a href="https://docs.google.com/document/d/1YfowCeYwem6fx-7_fh_2pcVnfvSzlLiohq9rC0FO3lU/edit?usp=sharing" target="_blank">Video</a>)<br/>
+(<a href="https://docs.google.com/document/d/1YfowCeYwem6fx-7_fh_2pcVnfvSzlLiohq9rC0FO3lU/edit?usp=sharing" target="_blank">Emails</a>)<br/>
