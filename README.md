@@ -28,4 +28,4 @@
 
 (<a href="https://docs.google.com/document/d/1N3h9_qHcn0-XOp5dspESDLTyo4zgyNnGf9yDOUnhRsY/edit?usp=sharing" target="_blank">Telefon</a>)<br/>
 
-(<a href="https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dfashion&field-keywords=women+bags&rh=n%3A7141123011%2Ck%3Awomen+bags">Shopping</a>)<br/>
+(<a href="https://docs.google.com/document/d/10KtvH9tBfSAzREuCJbVfMDTeYiuASLD97UwL8RVv1Lk/edit?usp=sharing">Shopping</a>)<br/>
