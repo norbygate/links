@@ -21,4 +21,7 @@
 (<a href="https://www.idrettsforbundet.no/idrettskretser/oslo-idrettskrets/aktivitet/60pluss/" target="_blank">60Pluss</a>)<br/>
 
 
+## Video
+(<a href="https://docs.google.com/document/d/12rHnbzN24bB35X_WHZrG5E3miZa68yboqdBlkeZayy8/edit?usp=sharing>Video</a>)<br/>
+
 
