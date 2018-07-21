@@ -38,7 +38,7 @@
 (<a href="https://docs.google.com/document/d/1YfowCeYwem6fx-7_fh_2pcVnfvSzlLiohq9rC0FO3lU/edit?usp=sharing" target="_blank">Emails</a>)<br/>
 ---------------------------
 
-(<a href="https://docs.google.com/document/d/10KtvH9tBfSAzREuCJbVfMDTeYiuASLD97UwL8RVv1Lk/edit?usp=sharing">Telefon</a>)<br/>
+(<a href="https://docs.google.com/document/d/1Px8Ta-_dyTTW7FFCdQoJhboES21OW0Et-Lo1kFnVdLM/edit?usp=sharing">Telefon</a>)<br/>
 ---------------------------
 
 (<a href="https://docs.google.com/document/d/10KtvH9tBfSAzREuCJbVfMDTeYiuASLD97UwL8RVv1Lk/edit?usp=sharing">Shopping</a>)<br/>
