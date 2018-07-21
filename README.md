@@ -43,6 +43,4 @@
 
 (<a href="https://docs.google.com/document/d/10KtvH9tBfSAzREuCJbVfMDTeYiuASLD97UwL8RVv1Lk/edit?usp=sharing">Shopping</a>)<br/>
 
----------------------------
-Test
 
